@@ -24,8 +24,8 @@ Grid search over range of hyperparameters was done and best parameters was selec
 * Random forest classification.
 
 ## Key features
-** Performed EDA and implemented Random Forest, SVM, Logistic Regression models to predict down syndrome in mice
-** Identified correlation among features,and performed missing imputation and outlier detection on 77 different features 
-** Applied Grid search for hyper parameter tuning to get the best parameters for  all machine learning models
+* Performed EDA and implemented Random Forest, SVM, Logistic Regression models to predict down syndrome in mice
+* Identified correlation among features,and performed missing imputation and outlier detection on 77 different features 
+* Applied Grid search for hyper parameter tuning to get the best parameters for  all machine learning models
 
 Thanks for visiting ❤️ [Sandesh Gaikwad](https://github.com/sandesh-30/)
