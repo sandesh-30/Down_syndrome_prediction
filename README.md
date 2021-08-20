@@ -1,6 +1,7 @@
 # Machine-learning-classification
 ### Problem statement
-Prediction of Down syndrome in mice by using various machine learning algorithms for classiffication like SVM , Lasso regularized logistic regression, ridge regularized logistic regression or elastic net , random forest.
+Prediction of Down syndrome in mice by using various machine learning algorithms for classiffication with the help of available Genotype data
 
 ### Dataset
-https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression#
+CLick here for dataset 👉 [dataset](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression#)
+
